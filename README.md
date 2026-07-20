@@ -29,4 +29,22 @@ Welcome to my Data Analytics Portfolio.
 - Data Visualization
 - Data Cleaning
 
+  ## Key Highlights
+
+### Sales & Revenue Dashboard
+- Total Revenue: 57.27M
+- Total Orders: 1.182K
+- Average Order Value: 48.43K
+- Revenue by Region
+- Revenue Trend Analysis
+- Customer & Sales Representative Performance
+
+### HR Analysis Dashboard
+- Total Employees: 950
+- Average Salary: 87.65K
+- Attrition Analysis
+- Employee Satisfaction
+- Hiring Trend
+- Department-wise Workforce Analysis
+
 Thank you for visiting my portfolio.
